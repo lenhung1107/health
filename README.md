@@ -1,5 +1,5 @@
 # HealthCareBooking
----- Lê Thị Nhung ---------
+---- Lê Thị Nhung --------- Link demo: https://www.youtube.com/watch?v=ju4wKg8m6XU
 1. Product name: HealthCareBooking
 2. Product purpose: HealthCareBooking is a website for booking medical appointments at a hospital called "Healthcare."
 3. Product development context: This is our team's first product. We realized that seeking medical care is a common activity in people's daily lives. However, the fatigue and time wasted in Vietnam due to waiting in lines for medical appointments led us to choose this topic with the desire to create a website that can facilitate appointment bookings and save time and effort for everyone. Additionally, we also aim to enhance our web programming skills.
